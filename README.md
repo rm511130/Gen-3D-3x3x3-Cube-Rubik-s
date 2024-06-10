@@ -3,7 +3,7 @@ Python code using Trimesh Library to build a 3D STL models of a Rubik's Cube
 
 # Pre-requisites
 
-`pip install trimesh numpy shapely`
+`pip install trimesh numpy shapely mapbox-earcut`
 
 # End-Result
 
